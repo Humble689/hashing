@@ -1,7 +1,8 @@
 # Secure Password Manager (C Implementation)
 
 A command-line password manager written in C that uses bcrypt for secure password hashing.
-
+  
+  
 ## Features
 - Secure password hashing using bcrypt
 - Password storage and retrieval
