@@ -7,7 +7,7 @@ A command-line password manager written in C that uses bcrypt for secure passwor
 - Password storage and retrieval
 - Password verification
 - Simple command-line interface
-- JSON-based storag
+- JSON-based storage
 
 ## Dependencies
 - GCC compiler
