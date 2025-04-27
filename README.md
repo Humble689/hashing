@@ -8,6 +8,7 @@ A command-line password manager written in C that uses bcrypt for secure passwor
 - Password verification
 - Simple command-line interface
 - JSON-based storage 
+
 ## Dependencies
 - GCC compiler
 - libbcrypt
